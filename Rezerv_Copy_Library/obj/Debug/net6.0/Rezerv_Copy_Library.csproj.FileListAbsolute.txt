@@ -1,0 +1,12 @@
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\bin\Debug\net6.0\Rezerv_Copy_Library.deps.json
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\bin\Debug\net6.0\Rezerv_Copy_Library.dll
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\bin\Debug\net6.0\Rezerv_Copy_Library.pdb
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\obj\Debug\net6.0\Rezerv_Copy_Library.csproj.AssemblyReference.cache
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\obj\Debug\net6.0\Rezerv_Copy_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\obj\Debug\net6.0\Rezerv_Copy_Library.AssemblyInfoInputs.cache
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\obj\Debug\net6.0\Rezerv_Copy_Library.AssemblyInfo.cs
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\obj\Debug\net6.0\Rezerv_Copy_Library.csproj.CoreCompileInputs.cache
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\obj\Debug\net6.0\Rezerv_Copy_Library.dll
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\obj\Debug\net6.0\refint\Rezerv_Copy_Library.dll
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\obj\Debug\net6.0\Rezerv_Copy_Library.pdb
+C:\Users\dkhpr\source\repos\Rezerv_Copy_Library\obj\Debug\net6.0\ref\Rezerv_Copy_Library.dll
